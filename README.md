@@ -31,11 +31,11 @@
   </ul>
 </details>
 
-<!-- ### 🌸🌷 Key Features <a name="key-features"></a>
+### 🌸🌷 Key Features <a name="key-features"></a>
 - **[class Solver created]**
 - **[method Factorial created for Solver class]**
 - **[method reverse created for Solver class]**
-- **[method fizzbuzz created for Solver class]** -->
+- **[method fizzbuzz created for Solver class]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
